@@ -49,5 +49,10 @@ const quiz = [
         q:'Who painted the Mona Lisa?',
         option:['Van Gogh', 'da Vinci','Picaso','Monet'],
         answer:1
+    },
+    {
+        q: 'What is the capital of Iceland?',
+        option: ['Reykjavík', 'paris', 'Rome', 'Zurich'],
+        answer: 1
     }
-]
+];
